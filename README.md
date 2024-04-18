@@ -2,8 +2,9 @@
 https://github.com/149036/clip_encrypt_server    
 https://github.com/149036/clip_encrypt_client  
 https://clip-encrypt.com  
-7割完成  
-復号処理を追加すればあとは機能追加
+
+取りあえず動く
+
 ## 案2 マッチングアプリ
 https://github.com/149036/matching_cancellation
 
