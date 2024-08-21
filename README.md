@@ -4,7 +4,7 @@
 - https://github.com/149036/clip_encrypt_client  
 
 ## マッチングアプリ
-https://github.com/149036/matching_cancellation
+- https://github.com/149036/cancel-platforms
 
 ## 作業計画  
 
