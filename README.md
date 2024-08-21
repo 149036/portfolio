@@ -1,15 +1,9 @@
-## 案1 メディアをダウンロード -> 暗号化 -> google driveに保存するサーバー/クライアント
-https://clip-encrypt.com  
+## メディアをダウンロード -> 暗号化 -> google driveに保存するサーバー/クライアント
+- https://clip-encrypt.com  
+- https://github.com/149036/clip_encrypt_server    
+- https://github.com/149036/clip_encrypt_client  
 
-https://github.com/149036/clip_encrypt_server    
-https://github.com/149036/clip_encrypt_client  
-
-google sride  
-https://docs.google.com/presentation/d/12FwznV9-wQ9-nhNXCE1eI4zEvCc1laYamG49yVAUJeQ/edit#slide=id.g2bfd6bf0634_0_45  
-
-取りあえず動く
-
-## 案2 マッチングアプリ
+## マッチングアプリ
 https://github.com/149036/matching_cancellation
 
 ## 作業計画  
